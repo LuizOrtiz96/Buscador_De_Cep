@@ -1,0 +1,60 @@
+fieldset{
+	margin:20px;
+    width: 20%;
+    background-color: darkcyan;
+    margin-left: 39.5%;
+    border-radius: 2em;
+}
+
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("Brasil.jpg");
+    
+}
+
+input {
+	margin: 10px;
+    width: 70%;
+    height: 35px;
+    border-radius: 0.8em;
+    text-align: center;
+    border-color: black;
+}
+span{
+	display:block;
+}
+
+legend{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    
+    
+}
+
+label{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+button{
+    width: 70%;
+    height: 5%;
+    border-radius: 0.8em;
+    color: white;
+    background-color: gold;
+    font-size: 15px;
+    border-color: black;
+}
+
+input[type="text"]:disabled {
+    background: white;
+    border-color: black;
+    color: black;
+  }
+
+
+
+
